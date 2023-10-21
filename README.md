@@ -1,2 +1,2 @@
 # Computer_networks
-ALl the explanations are in word file!
+All the explanations are in Word file!
